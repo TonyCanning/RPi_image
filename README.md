@@ -1,6 +1,6 @@
 # RPi_image
 Program included on this image:
-  - avconv is included for creating a timelapse video from images taken by raspistill (https://libav.org/avconv.html)
+  - libav-tools (for avconv) is included for creating a timelapse video from images taken by raspistill (https://libav.org/avconv.html)
 
 
 Code included has be written during my time at FabLab NerveCentre, Derry, NI. (Unless otherwise stated)
