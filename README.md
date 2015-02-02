@@ -6,6 +6,7 @@ Program included on this image:
 Code included has be written during my time at FabLab NerveCentre, Derry, NI. (Unless otherwise stated)
 
 Included in this image:
+
 <b>~/us_robot/ contains 3 python files</b>
   - ultrasonic.py returns a distance measurement and is written for the very commonly used HC-SR04 ultrasonic sensor.
   - motor_drive.py is a simple script to drive 2 DC motors from the pi.
